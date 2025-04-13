@@ -33,9 +33,9 @@ Hi! I’m **Umekulume Chinwendu Maryann **, a SOC Analyst with hands-on experien
 
 ### 🎓 Certifications
 
-● ISC2 Certified in cybersecurity
-● Security Blue Team Level 1 (BTL1)
-● Security Analyst Level 1 (SAL1)
+- ISC2 Certified in cybersecurity
+- Security Blue Team Level 1 (BTL1)
+- Security Analyst Level 1 (SAL1)
 ---
 
 
