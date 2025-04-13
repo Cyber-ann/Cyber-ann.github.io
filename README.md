@@ -10,7 +10,7 @@ Hi! I’m **Umekulume Chinwendu Maryann **, a SOC Analyst with hands-on experien
 
 | **Skill**                        | **Associated Project**                   |
 |----------------------------------|------------------------------------------|
-| Port Scanning                    | Detection Lab                            |
+| Port Scanning                    |[ Detection Lab  ](https://github.com/Cyber-ann/Port-Scanning)                          |
 | Risk Assessment                  | Detection Lab                            |
 | Regulatory Compliance            | SOC Automation Lab                       |
 | Incident Response & Planning     | SOC Automation Lab                       |
